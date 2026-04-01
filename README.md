@@ -1,6 +1,3 @@
-Here’s a **clean, basic README** you can directly use (and tweak if needed) 👇
-
----
 
 # 📚 Library Management System
 
